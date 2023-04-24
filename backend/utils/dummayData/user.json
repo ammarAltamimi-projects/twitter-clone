@@ -1,0 +1,82 @@
+[
+  {
+    "email": "ali.salem@example.com",
+    "username": "alisalem",
+    "fullName": "Ali Salem",
+    "password": "Ali12345!",
+    "bio": "Passionate about tech and productivity.",
+    "link": "https://example.com/alisalem"
+  },
+  {
+    "email": "khaled.mansour@example.com",
+    "username": "khaledmans",
+    "fullName": "Khaled Mansour",
+    "password": "Khaled@321",
+    "bio": "Love solving complex problems through code.",
+    "link": "https://example.com/khaledmans"
+  },
+  {
+    "email": "mohamed.ramy@example.com",
+    "username": "mramy",
+    "fullName": "Mohamed Ramy",
+    "password": "MohamedR@1",
+    "bio": "Engineer, dreamer, and traveler.",
+    "link": "https://example.com/mramy"
+  },
+  {
+    "email": "yousef.hamdy@example.com",
+    "username": "yhamdy",
+    "fullName": "Yousef Hamdy",
+    "password": "Yousef#987",
+    "bio": "Frontend developer and UI/UX enthusiast.",
+    "link": "https://example.com/yhamdy"
+  },
+  {
+    "email": "ahmed.shokry@example.com",
+    "username": "ahmedshok",
+    "fullName": "Ahmed Shokry",
+    "password": "Ahmed456@",
+    "bio": "Backend specialist with a love for clean APIs.",
+    "link": "https://example.com/ahmedshok"
+  },
+  {
+    "email": "tamer.hassan@example.com",
+    "username": "tamerh",
+    "fullName": "Tamer Hassan",
+    "password": "Tamer2025!",
+    "bio": "Coding addict. Always learning something new.",
+    "link": "https://example.com/tamerh"
+  },
+  {
+    "email": "mahmoud.mokhtar@example.com",
+    "username": "mokhtarmahmoud",
+    "fullName": "Mahmoud Mokhtar",
+    "password": "Mahmoud@M1",
+    "bio": "I turn coffee into software.",
+    "link": "https://example.com/mokhtarmahmoud"
+  },
+  {
+    "email": "essam.hassan@example.com",
+    "username": "essamh",
+    "fullName": "Essam Hassan",
+    "password": "Essam#Pass",
+    "bio": "Problem solver. Debugging enthusiast.",
+    "link": "https://example.com/essamh"
+  },
+  {
+    "email": "nasser.gamal@example.com",
+    "username": "nasserg",
+    "fullName": "Nasser Gamal",
+    "password": "Nasser!123",
+    "bio": "Data-driven and detail-oriented.",
+    "link": "https://example.com/nasserg"
+  },
+  {
+    "email": "fady.rami@example.com",
+    "username": "fady.r",
+    "fullName": "Fady Rami",
+    "password": "Fady456@",
+    "bio": "Full-stack developer. Lover of JS.",
+    "link": "https://example.com/fady.r"
+  }
+]
