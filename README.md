@@ -70,7 +70,7 @@ It includes authentication, MongoDB-based data management, media uploads, and a 
 ## 🚀 Live Demo
 
 Start tweeting now:  
-👉 [**Live Twitter Clone**](https://twitter-clone-seven-jet.vercel.app/)
+👉 [**Live Twitter Clone**](https://twitter-clone-seven-jet.vercel.app)
 ---
 
 ## 🔗 Contact
